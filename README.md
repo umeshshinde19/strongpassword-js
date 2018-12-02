@@ -71,3 +71,8 @@ var safe = strongpassword.issafe("8aD?&Pf|!0l7)I/2_Cw>", 25); // safe: false
 
 strongpassword-js is available under the terms of the MIT License.
 
+
+### Donate!
+Support the authors: Umesh Shinde
+
+<noscript><a href="https://liberapay.com/umeshshinde19/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
